@@ -1,6 +1,6 @@
 <div>
   <h1 aling:"center"> Hola soy Nico Lopez</h1>
-  <h3 aling:"center">Soy estudiante de programacion en la Universidad Tecnologica Nacional (UTN). Soy profesor de Brazilian Jiu Jitsu y facilitador de Acroyoga.</h3>
+  <h3 aling:"center">Soy estudiante de programacion en la Universidad Tecnologica Nacional (UTN). Soy profesor y practicante de Brazilian Jiu Jitsu y de Acroyoga.</h3>
 </div>
 
 <div>
