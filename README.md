@@ -1,6 +1,6 @@
 <div>
   <h1 align:"center"> Hi 👋 i'm Nico Lopez</h1>
-  <h3 align:"center">I 'm developer Full Stack from Quilmes,Buenos Aires, Argentina. I 'm study in the Universidad Tecnologica Nacional (UTN). I 'm profesor of Brazilian Jiu Jitsu y Acroyoga.</h3>
+  <h3 align:"center">I 'm developer Full Stack from Quilmes,Buenos Aires, Argentina.  I graduated from Universidad Tecnologica Nacional (UTN). I'm also passionate about Brazilian Jiu Jitsu and Acroyoga, where I share my knowledge as an Profesor</h3>
 </div>
 
 ![Black Minimal Motivation Quote LinkedIn Banner](https://github.com/NicoLopezBjj/NicoLopezBjj/assets/131780886/f782ef2c-d4b5-406a-8ce3-ce3866ea21c7)
@@ -17,9 +17,11 @@ technologies: {
       },
       backEnd: ["Node", "Express"],
       databases: ["MongoDB", "mySQL"]
-      }
+      },
 passions : ["Jiu Jitsu", "Acroyoga", "Futbol"],
-currentOcupation : "I am profesor of Brazilian Jiu Jitsu and Acroyoga",
+currentOcupation : ["I am profesor of Brazilian Jiu Jitsu and Acroyoga","referee international in BJJ"],
+goalsOfTheYear : ["get a job as a developer","get a black belt in BJJ"]
+}
 
 
 ```
