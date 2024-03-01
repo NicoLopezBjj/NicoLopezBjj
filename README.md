@@ -8,5 +8,6 @@
   <a href="https://www.instagram.com/nicolopezbjj/">
      </a>
 </div>
-<a class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=nicolopezdev" target="_blank">Follow on LinkedIn</a>
+<a class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=nicolopezdev" target="_blank">Follow me on LinkedIn</a>
 
+[![Nicolas Lopez github stats]https://github-readme-stats.vercel.app/api?username=NicoLopezBjj]
