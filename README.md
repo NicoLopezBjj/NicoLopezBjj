@@ -10,5 +10,5 @@
 </div>
 <a class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=nicolopezdev" target="_blank">Follow me on LinkedIn</a>
 
-[![Nicolas Lopez github stats](https://github-readme-stats.vercel.app/api?username=NicoLopezBjj])(https://github.com/anuraghazra/github-readme-stats)
+[![Nicolas Lopez github stats](https://github-readme-stats.vercel.app/api?username=NicoLopezBjj)]
 
