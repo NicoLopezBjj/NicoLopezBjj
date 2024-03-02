@@ -12,7 +12,7 @@ pronouns : "he" | "him",
 code : [ "JavaScript" , "HTML", "CSS"],
 technologies: {
       frontEnd: {
-         js: ["React" , "React + Vite"]
+         js: ["React" , "React + Vite"],
          css: ["Bootstrap", " ChakraUI" ]
       },
       backEnd: ["Node", "Express"],
