@@ -27,10 +27,9 @@ goalsOfTheYear : ["get a job as a developer","get a black belt in BJJ"]
 ```
 
 <div>
-  <a href="https://www.instagram.com/nicolopezbjj/">
-     </a>
+    <a class="libutton" style="text-decoration:none"href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=nicolopezdev" target="_blank">LinkedIn</a>
+  
 </div>
-<a class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=nicolopezdev" target="_blank">Follow me on LinkedIn</a>
 
 <br/>
 
