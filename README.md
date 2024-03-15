@@ -13,12 +13,14 @@ code : [ "JavaScript" , "HTML", "CSS"],
 technologies: {
       frontEnd: {
          js: ["React" , "React + Vite"],
-         css: ["Bootstrap", " ChakraUI" ]
+         css: ["Bootstrap", "ChakraUI" ]
       },
       backEnd: ["Node", "Express"],
-      databases: ["MongoDB", "mySQL"]
+      databases: ["MongoDB", "mySQL"],
+      versions: ["Git" , "GitHub"],
+      agile: ["Scrum"]
       },
-passions : ["Jiu Jitsu", "Acroyoga", "Futbol"],
+passions : [ "Code", "Jiu Jitsu", "Acroyoga", "Futbol"],
 currentOcupation : ["I am a Brazilian Jiu Jitsu and Acroyoga teacher","referee international in BJJ"],
 goalsOfTheYear : ["get a job as a developer","get a black belt in BJJ"]
 }
