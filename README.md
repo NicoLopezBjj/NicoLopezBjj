@@ -20,7 +20,7 @@ technologies: {
       versions: ["Git" , "GitHub"],
       agile: ["Scrum"]
       },
-passions : [ "Code", "Jiu Jitsu", "Acroyoga", "Futbol"],
+passions : [ "Code", "Jiu Jitsu", "Acroyoga", "Futbol","Wim Hof Method"],
 currentOcupation : ["I am a Brazilian Jiu Jitsu and Acroyoga teacher","referee international in BJJ"],
 goalsOfTheYear : ["get a job as a developer","get a black belt in BJJ"]
 }
