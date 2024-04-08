@@ -1,9 +1,11 @@
+![Black Minimal Motivation Quote LinkedIn Banner](https://github.com/NicoLopezBjj/NicoLopezBjj/assets/131780886/f782ef2c-d4b5-406a-8ce3-ce3866ea21c7)
+
+
 <div>
   <h1 align:"center"> Hi 👋 i'm Nico Lopez</h1>
   <h3 align:"center">I 'm a Full Stack Developer from Quilmes,Buenos Aires, Argentina.  I graduated from Universidad Tecnologica Nacional (UTN). I'm also passionate about Brazilian Jiu Jitsu and Acroyoga, where I share my knowledge as a Professor</h3>
 </div>
 
-![Black Minimal Motivation Quote LinkedIn Banner](https://github.com/NicoLopezBjj/NicoLopezBjj/assets/131780886/f782ef2c-d4b5-406a-8ce3-ce3866ea21c7)
 
 ```js  
 
