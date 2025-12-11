@@ -3,7 +3,11 @@
 
 <div>
   <h1 align="center"> Hi 👋 i'm Nico Lopez</h1>
-  <h3 align="center">I'm a Full Stack Developer from Quilmes,Buenos Aires, Argentina.  I graduated from Universidad Tecnologica Nacional (UTN). I'm also passionate about Brazilian Jiu Jitsu and Acroyoga, where I share my knowledge as a Professor</h3>
+  <h3 align="center">
+  I'm a Full Stack Developer from Quilmes, Buenos Aires, Argentina, and I'm currently working as a Back-End Developer at ARBA.  
+  I graduated from UTN and I balance my passion for software with my journey in Brazilian Jiu Jitsu and Acroyoga, where I also teach and guide others.
+  </h3>
+
 </div>
 
 
