@@ -67,6 +67,5 @@ const NicoLopez = {
 
 <br/>
 
-[![Nicolas Lopez github stats](https://github-readme-stats.vercel.app/api?username=NicoLopezBjj)](https://github.com/NicoLopezBjj)
 
 
