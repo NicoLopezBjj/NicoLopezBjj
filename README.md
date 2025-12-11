@@ -4,7 +4,7 @@
 <div>
   <h1 align="center"> Hi 👋 i'm Nico Lopez</h1>
   <h3 align="center">
-  I'm a Full Stack Developer from Quilmes, Buenos Aires, Argentina, and I'm currently working as a Back-End Developer at ARBA.  
+  I'm a Full Stack Developer from Quilmes, Buenos Aires, Argentina, and I'm currently working as a Back-End Developer at ARBA (Agencia de Recaudacion de la Provincia de Buenos Aires).  
   I graduated from UTN and I balance my passion for software with my journey in Brazilian Jiu Jitsu and Acroyoga, where I also teach and guide others.
   </h3>
 
