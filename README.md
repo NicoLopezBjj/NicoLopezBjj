@@ -2,29 +2,55 @@
 
 
 <div>
-  <h1 align:"center"> Hi 👋 i'm Nico Lopez</h1>
-  <h3 align:"center">I 'm a Full Stack Developer from Quilmes,Buenos Aires, Argentina.  I graduated from Universidad Tecnologica Nacional (UTN). I'm also passionate about Brazilian Jiu Jitsu and Acroyoga, where I share my knowledge as a Professor</h3>
+  <h1 align="center"> Hi 👋 i'm Nico Lopez</h1>
+  <h3 align="center">I'm a Full Stack Developer from Quilmes,Buenos Aires, Argentina.  I graduated from Universidad Tecnologica Nacional (UTN). I'm also passionate about Brazilian Jiu Jitsu and Acroyoga, where I share my knowledge as a Professor</h3>
 </div>
 
 
 ```js  
-
 const NicoLopez = {
-pronouns : "he" | "him",
-code : [ "JavaScript" , "HTML", "CSS"],
-technologies: {
-      frontEnd: {
-         js: ["React" , "React + Vite"],
-         css: ["Bootstrap", "ChakraUI" ]
-      },
-      backEnd: ["Node", "Express"],
-      databases: ["MongoDB", "mySQL"],
-      versions: ["Git" , "GitHub"],
-      agile: ["Scrum"]
-      },
-passions : [ "Code", "Jiu Jitsu", "Acroyoga", "Futbol", "Wim Hof Method"],
-currentOcupation : ["I am a Brazilian Jiu Jitsu and Acroyoga teacher","referee international in BJJ"],
-goalsOfTheYear : ["get a job as a developer","get a black belt in BJJ"]
+  pronouns: "he" | "him",
+  code: ["JavaScript", "Java", "NATURAL", "HTML", "CSS"],
+
+  technologies: {
+    frontEnd: {
+      js: ["React", "React + Vite"],
+      css: ["Bootstrap", "ChakraUI"]
+    },
+
+    backEnd: ["Node", "Express", "Spring Boot"],
+
+    databases: ["MongoDB", "MySQL", "SQL Server", "Oracle"],
+
+    versionControl: ["Git", "GitHub", "GitLab"],
+
+    agile: ["Scrum"],
+
+    devOps: {
+      containers: ["Docker"],
+      ci_cd: ["Jenkins", "GitLab CI", "ArgoCD"],
+      cloud: ["Kubernetes"]
+    }
+  },
+
+  passions: ["Code", "Jiu Jitsu", "Acroyoga", "Futbol", "Wim Hof Method"],
+
+  currentOcupation: [
+    "Brazilian Jiu Jitsu and Acroyoga teacher",
+    "International BJJ referee",
+    "Developer BackEnd in ARBA (La Plata, Argentina)"
+  ],
+
+  achievements: [
+    "First job as a Software Developer ✔",
+    "Brazilian Jiu Jitsu Black Belt ✔"
+  ],
+
+  goals2026: [
+    "Win as many BJJ tournaments as possible in 2026",
+    "Continue my professional growth toward becoming a Senior Developer"
+  ]
+
 }
 
 
@@ -37,5 +63,6 @@ goalsOfTheYear : ["get a job as a developer","get a black belt in BJJ"]
 
 <br/>
 
-[![Nicolas Lopez github stats](https://github-readme-stats.vercel.app/api?username=NicoLopezBjj)]
+[![Nicolas Lopez github stats](https://github-readme-stats.vercel.app/api?username=NicoLopezBjj)](https://github.com/NicoLopezBjj)
+
 
